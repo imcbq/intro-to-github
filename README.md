@@ -1,3 +1,5 @@
 # intro-to-github
-*My first GitHub repository for PLTW Computer science*
 ## pop
+*My first GitHub repository for PLTW Computer science*
+- [x]
+- [ ]
